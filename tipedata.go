@@ -10,3 +10,4 @@ func main() {
 	fmt.Println("Tipe Data Boolean 1", true)
 	fmt.Println("Tipe Data Boolean 2", false)
 }
+//tipedata
